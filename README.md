@@ -1,0 +1,2 @@
+# TFPractice
+Some Tensorflow samples
